@@ -1,6 +1,9 @@
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
-  margin: 20px;
+  display: block;
+  margin-top: 10%;
+  margin-left: 40%;
+  width: 50%;
 }
 
 ol, ul {
@@ -15,6 +18,7 @@ ol, ul {
 
 .status {
   margin-bottom: 10px;
+  font-size: 29px;
 }
 
 .square {
